@@ -1,122 +1,122 @@
 [
     {
-        "Size": 145321,
-        "Dept": 1,
-        "Event_Type": 0,
-        "Trimestre": 3
-    },
-    {
-        "Size": 153422,
-        "Dept": 4,
-        "Event_Type": 1,
-        "Trimestre": 2
-    },
-    {
-        "Size": 132890,
-        "Dept": 2,
-        "Event_Type": 2,
-        "Trimestre": 1
-    },
-    {
-        "Size": 167543,
-        "Dept": 7,
-        "Event_Type": 3,
-        "Trimestre": 4
-    },
-    {
-        "Size": 148321,
+        "Size": 140132,
         "Dept": 5,
-        "Event_Type": 4,
-        "Trimestre": 2
+        "Trimestre": 2,
+        "Event_Type": 4
     },
     {
-        "Size": 159003,
-        "Dept": 6,
-        "Event_Type": 5,
-        "Trimestre": 3
-    },
-    {
-        "Size": 140211,
+        "Size": 120043,
         "Dept": 3,
-        "Event_Type": 0,
-        "Trimestre": 1
+        "Trimestre": 1,
+        "Event_Type": 5
     },
     {
-        "Size": 152342,
+        "Size": 160221,
+        "Dept": 7,
+        "Trimestre": 3,
+        "Event_Type": 3
+    },
+    {
+        "Size": 145324,
+        "Dept": 4,
+        "Trimestre": 2,
+        "Event_Type": 2
+    },
+    {
+        "Size": 132512,
+        "Dept": 2,
+        "Trimestre": 1,
+        "Event_Type": 3
+    },
+    {
+        "Size": 158293,
+        "Dept": 6,
+        "Trimestre": 4,
+        "Event_Type": 4
+    },
+    {
+        "Size": 134512,
         "Dept": 1,
-        "Event_Type": 1,
-        "Trimestre": 2
+        "Trimestre": 3,
+        "Event_Type": 5
     },
     {
-        "Size": 133789,
-        "Dept": 4,
-        "Event_Type": 2,
-        "Trimestre": 3
-    },
-    {
-        "Size": 164223,
-        "Dept": 7,
-        "Event_Type": 3,
-        "Trimestre": 4
-    },
-    {
-        "Size": 146712,
+        "Size": 147623,
         "Dept": 5,
-        "Event_Type": 4,
-        "Trimestre": 2
+        "Trimestre": 2,
+        "Event_Type": 4
     },
     {
-        "Size": 158993,
-        "Dept": 6,
-        "Event_Type": 5,
-        "Trimestre": 3
-    },
-    {
-        "Size": 141222,
-        "Dept": 2,
-        "Event_Type": 0,
-        "Trimestre": 1
-    },
-    {
-        "Size": 150443,
-        "Dept": 4,
-        "Event_Type": 1,
-        "Trimestre": 2
-    },
-    {
-        "Size": 137812,
+        "Size": 123987,
         "Dept": 3,
-        "Event_Type": 2,
-        "Trimestre": 3
+        "Trimestre": 1,
+        "Event_Type": 1
     },
     {
-        "Size": 163411,
+        "Size": 165321,
         "Dept": 7,
-        "Event_Type": 3,
-        "Trimestre": 4
+        "Trimestre": 4,
+        "Event_Type": 3
     },
     {
-        "Size": 147893,
-        "Dept": 5,
-        "Event_Type": 4,
-        "Trimestre": 2
-    },
-    {
-        "Size": 155982,
-        "Dept": 6,
-        "Event_Type": 5,
-        "Trimestre": 3
-    },
-    {
-        "Size": 142391,
-        "Dept": 2,
-        "Event_Type": 0,
-        "Trimestre": 1
-    },
-    {
-        "Size": 151293,
+        "Size": 142453,
         "Dept": 4,
-        "Event_Type": 1,
-        "Trimestre": 2
+        "Trimestre": 3,
+        "Event_Type": 3
+    },
+    {
+        "Size": 156432,
+        "Dept": 2,
+        "Trimestre": 2,
+        "Event_Type": 3
+    },
+    {
+        "Size": 130492,
+        "Dept": 6,
+        "Trimestre": 1,
+        "Event_Type": 5
+    },
+    {
+        "Size": 150325,
+        "Dept": 5,
+        "Trimestre": 4,
+        "Event_Type": 1
+    },
+    {
+        "Size": 136789,
+        "Dept": 7,
+        "Trimestre": 3,
+        "Event_Type": 4
+    },
+    {
+        "Size": 148976,
+        "Dept": 1,
+        "Trimestre": 2,
+        "Event_Type": 2
+    },
+    {
+        "Size": 159374,
+        "Dept": 4,
+        "Trimestre": 1,
+        "Event_Type": 3
+    },
+    {
+        "Size": 127643,
+        "Dept": 6,
+        "Trimestre": 4,
+        "Event_Type": 0
+    },
+    {
+        "Size": 144569,
+        "Dept": 2,
+        "Trimestre": 3,
+        "Event_Type": 5
+    },
+    {
+        "Size": 138765,
+        "Dept": 5,
+        "Trimestre": 2,
+        "Event_Type": 5
     }
 ]
