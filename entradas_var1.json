@@ -1,114 +1,102 @@
 [
     {
         "Size": 140132,
-        "Semestre": 2,
-        "Dept": 5
+        "Dept": 5,
+        "Trimestre": 2
     },
     {
         "Size": 120043,
-        "Semestre": 1,
-        "Dept": 3
+        "Dept": 3,
+        "Trimestre": 1
     },
     {
         "Size": 160221,
-        "Semestre": 3,
-        "Dept": 7
+        "Dept": 7,
+        "Trimestre": 3
     },
     {
         "Size": 145324,
-        "Semestre": 2,
-        "Dept": 4
+        "Dept": 4,
+        "Trimestre": 2
     },
     {
         "Size": 132512,
-        "Semestre": 1,
-        "Dept": 2
+        "Dept": 2,
+        "Trimestre": 1
     },
     {
         "Size": 158293,
-        "Semestre": 4,
-        "Dept": 6
+        "Dept": 6,
+        "Trimestre": 4
     },
     {
         "Size": 134512,
-        "Semestre": 3,
-        "Dept": 1
+        "Dept": 1,
+        "Trimestre": 3
     },
     {
         "Size": 147623,
-        "Semestre": 2,
-        "Dept": 5
+        "Dept": 5,
+        "Trimestre": 2
     },
     {
         "Size": 123987,
-        "Semestre": 1,
-        "Dept": 3
+        "Dept": 3,
+        "Trimestre": 1
     },
     {
         "Size": 165321,
-        "Semestre": 4,
-        "Dept": 7
+        "Dept": 7,
+        "Trimestre": 4
     },
     {
         "Size": 142453,
-        "Semestre": 3,
-        "Dept": 4
+        "Dept": 4,
+        "Trimestre": 3
     },
     {
         "Size": 156432,
-        "Semestre": 2,
-        "Dept": 2
+        "Dept": 2,
+        "Trimestre": 2
     },
     {
         "Size": 130492,
-        "Semestre": 1,
-        "Dept": 6
+        "Dept": 6,
+        "Trimestre": 1
     },
     {
         "Size": 150325,
-        "Semestre": 4,
-        "Dept": 5
+        "Dept": 5,
+        "Trimestre": 4
     },
     {
         "Size": 136789,
-        "Semestre": 3,
-        "Dept": 7
+        "Dept": 7,
+        "Trimestre": 3
     },
     {
         "Size": 148976,
-        "Semestre": 2,
-        "Dept": 1
+        "Dept": 1,
+        "Trimestre": 2
     },
     {
         "Size": 159374,
-        "Semestre": 1,
-        "Dept": 4
+        "Dept": 4,
+        "Trimestre": 1
     },
     {
         "Size": 127643,
-        "Semestre": 4,
-        "Dept": 6
+        "Dept": 6,
+        "Trimestre": 4
     },
     {
         "Size": 144569,
-        "Semestre": 3,
-        "Dept": 2
+        "Dept": 2,
+        "Trimestre": 3
     },
     {
         "Size": 138765,
-        "Semestre": 2,
-        "Dept": 5
+        "Dept": 5,
+        "Trimestre": 2
     }
 ]
-
-
-
-
-
-
-
-
-
-
-
-
