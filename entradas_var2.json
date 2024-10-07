@@ -1,0 +1,122 @@
+[
+    {
+        "Size": 145321,
+        "Semestre": 3,
+        "Dept": 1,
+        "Event_Type": 0
+    },
+    {
+        "Size": 153422,
+        "Semestre": 2,
+        "Dept": 4,
+        "Event_Type": 1
+    },
+    {
+        "Size": 132890,
+        "Semestre": 1,
+        "Dept": 2,
+        "Event_Type": 2
+    },
+    {
+        "Size": 167543,
+        "Semestre": 4,
+        "Dept": 7,
+        "Event_Type": 3
+    },
+    {
+        "Size": 148321,
+        "Semestre": 2,
+        "Dept": 5,
+        "Event_Type": 4
+    },
+    {
+        "Size": 159003,
+        "Semestre": 3,
+        "Dept": 6,
+        "Event_Type": 5
+    },
+    {
+        "Size": 140211,
+        "Semestre": 1,
+        "Dept": 3,
+        "Event_Type": 0
+    },
+    {
+        "Size": 152342,
+        "Semestre": 2,
+        "Dept": 1,
+        "Event_Type": 1
+    },
+    {
+        "Size": 133789,
+        "Semestre": 3,
+        "Dept": 4,
+        "Event_Type": 2
+    },
+    {
+        "Size": 164223,
+        "Semestre": 4,
+        "Dept": 7,
+        "Event_Type": 3
+    },
+    {
+        "Size": 146712,
+        "Semestre": 2,
+        "Dept": 5,
+        "Event_Type": 4
+    },
+    {
+        "Size": 158993,
+        "Semestre": 3,
+        "Dept": 6,
+        "Event_Type": 5
+    },
+    {
+        "Size": 141222,
+        "Semestre": 1,
+        "Dept": 2,
+        "Event_Type": 0
+    },
+    {
+        "Size": 150443,
+        "Semestre": 2,
+        "Dept": 4,
+        "Event_Type": 1
+    },
+    {
+        "Size": 137812,
+        "Semestre": 3,
+        "Dept": 3,
+        "Event_Type": 2
+    },
+    {
+        "Size": 163411,
+        "Semestre": 4,
+        "Dept": 7,
+        "Event_Type": 3
+    },
+    {
+        "Size": 147893,
+        "Semestre": 2,
+        "Dept": 5,
+        "Event_Type": 4
+    },
+    {
+        "Size": 155982,
+        "Semestre": 3,
+        "Dept": 6,
+        "Event_Type": 5
+    },
+    {
+        "Size": 142391,
+        "Semestre": 1,
+        "Dept": 2,
+        "Event_Type": 0
+    },
+    {
+        "Size": 151293,
+        "Semestre": 2,
+        "Dept": 4,
+        "Event_Type": 1
+    }
+]
